@@ -1,2 +1,2 @@
 # Sample
-This is a Smple repository
+This is a Sample repository
